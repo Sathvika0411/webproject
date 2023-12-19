@@ -1,0 +1,35 @@
+body{
+    position: relative;
+    top: 20vh;
+    left: 20vh;
+    width: 100%;
+    background: url("https://s-media-cache-ak0.pinimg.com/originals/16/44/8d/16448d7961fab28de5af9dd79dcb175a.jpg");
+    background-size: cover;
+}
+
+
+.icons {
+    display: flex;
+}
+
+.icons i{
+    padding: 10px;
+    font-size: 68px;
+   
+}
+
+.icons p{
+    padding-top: 10px;
+    color:antiquewhite;
+    font-size: 25px;
+    padding-top: 5px;
+}
+#contact h3{
+    color: rgb(218, 223, 233);
+    font-size: 25px;
+    padding-bottom: 15px;
+    text-shadow: 2px 2px #000;
+    font-family:monospace;
+
+
+}
